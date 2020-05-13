@@ -1,5 +1,5 @@
 # Hi! I am Fatima
-## Here is my linkedin profile
+## This is just static part of website nothing dynamic is here till now
 
 ### To see working clone this repo
-### rub index.html file in your browser
+### run index.html file in your browser
